@@ -7,7 +7,7 @@ import {
   Tabs,
   Toolbar,
 } from "@mui/material";
-import Logo from "../../public/Images/brand_logo.png";
+import Logo from "/Images/brand_logo.png";
 import React from "react";
 
 const Navbar = () => {

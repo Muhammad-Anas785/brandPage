@@ -1,7 +1,7 @@
 import { Box, Button, Grid, Stack, Typography } from "@mui/material";
-import FlipCart from "../../public/Images/flipKart.png";
-import Amazon from "../../public/Images/amazon.png";
-import Shoe from "../../public/Images/shoe_image.png";
+import FlipCart from "/Images/flipkart.png";
+import Amazon from "/Images/amazon.png";
+import Shoe from "/Images/shoe_image.png";
 
 import React from "react";
 
